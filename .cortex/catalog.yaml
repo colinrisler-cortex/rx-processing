@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "rx-processing"
+  x-cortex-tag: "rx-processing"
+  x-cortex-description: "Prescription intake and adjudication API"
+  x-cortex-owners:
+    - type: group
+      name: "Pharmacy & Fuel Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001305"
+    apm_name: "Pharmacy Management System"
+    cost_center: "CC-4320"
